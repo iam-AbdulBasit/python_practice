@@ -1,0 +1,4 @@
+Mob_number = input("enter your mobile number with country code(+92):")
+Replace_Mob_number = Mob_number.replace("+","00")
+print(Replace_Mob_number)
+#rfghjhjkkj
