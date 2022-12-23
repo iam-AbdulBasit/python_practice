@@ -1,0 +1,10 @@
+mystr = "how are you"
+print(len(mystr))
+print(mystr[:-9])
+print(mystr.endswith("boy"))
+print(mystr.count("b"))
+print(mystr.capitalize())
+print(mystr.find("are"))
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.replace("are","is "))
